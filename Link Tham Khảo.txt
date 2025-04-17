@@ -1,0 +1,3 @@
+https://www.unwto.org/tourism-data/global-and-regional-tourism-performance : tổng số khách du lịch tại nước đó
+https://hdr.undp.org/data-center/human-development-index#/indicies/HDI : Chỉ số HDI
+https://databank.worldbank.org/ : Các dữ liệu còn lại
